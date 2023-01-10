@@ -1,8 +1,8 @@
-This is the repository for the @CircusAndCode open source project.
+This is the repository for the CircusAndCode open source project.
 
-- 📫 HOW TO CONTACT:
-  :heartpulse: contact@CircusAndCode.com
-  :heartpulse: www.Twitter.com/CircusAndCode
+- 📫 HOW TO CONTACT:<br>
+  :heartpulse: contact@CircusAndCode.com <br>
+  :heartpulse: www.Twitter.com/CircusAndCode <br><br>
 :performing_arts: HOW TO SUPPORT: :performing_arts:<br>
   :heartpulse: [Website](https://www.CircusAndCode.com)<br>
   :heartpulse: [Twitch](https://www.twitch.com/circusandcode) <br>
